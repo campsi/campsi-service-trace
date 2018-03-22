@@ -14,7 +14,7 @@
   "devDependencies": {
     "campsi": "^1.0.6",
     "chai": "^4.0.1",
-    "chai-http": "^3.0.0",
+    "chai-http": "^4.0.0",
     "config": "^1.30.0",
     "coveralls": "^3.0.0",
     "depcheck": "^0.6.9",
