@@ -8,7 +8,7 @@
     "url": "git://github.com/campsi/campsi-service-trace.git"
   },
   "dependencies": {
-    "debug": "^3.1.0",
+    "debug": "^4.1.1",
     "for-in": "^1.0.2"
   },
   "devDependencies": {
